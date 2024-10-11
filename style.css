@@ -19,3 +19,7 @@ body{
     font-family: var(--fonte-principal);
     background-color: var(--light-sky-blue);
 }
+
+h1,h3{
+    font-family: var(--fonte-secundaria);
+}
