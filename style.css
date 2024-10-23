@@ -9,6 +9,8 @@
     --carnation-pink: #ffafccff;
     --uranian-blue: #bde0feff;
     --light-sky-blue: #a2d2ffff;
+    
+    
 }
 
 body{
@@ -18,4 +20,14 @@ body{
 
 h1,h3{
     font-family: var(--fonte-secundaria);
+}
+
+.card{
+    background-color: var(--thistle);
+}
+
+a{
+    text-decoration: none ;
+    font-size: 1.2em;
+    color: var(--preto);
 }
